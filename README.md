@@ -31,6 +31,7 @@ Total number of in-game currencies for tier two unlocking:
 
 ### Daylight Prairie
 | Spirits                | Location         | Spirit Type | Season | Emote | Emote Type | Cosmetics | Regular Candles | Hearts | Ascended Candles |
+|------------------------|------------------|-------------|--------|-------|------------|-----------|-----------------|--------|------------------|
 | Applauding Bellmaker   | Daylight Prairie |             |        |       |            |           |                 |        |                  |
 | Bird Whisperer         | Daylight Prairie |             |        |       |            |           |                 |        |                  |
 | Butterfly Charmer      | Daylight Prairie |             |        |       |            |           |                 |        |                  |
@@ -64,6 +65,7 @@ Total number of in-game currencies for tier two unlocking:
 
 ### Hidden Forest
 | Spirits                | Location         | Spirit Type | Season | Emote | Emote Type | Cosmetics | Regular Candles | Hearts | Ascended Candles |
+|------------------------|------------------|-------------|--------|-------|------------|-----------|-----------------|--------|------------------|
 | Apologetic Lumberjack  | Hidden Forest    |             |        |       |            |           |                 |        |                  |
 | Blushing Prospector    | Hidden Forest    |             |        |       |            |           |                 |        |                  |
 | Dismayed Hunter        | Hidden Forest    |             |        |       |            |           |                 |        |                  |
