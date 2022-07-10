@@ -1,5 +1,6 @@
 # Sky: Children of the Light Spirits Information
 
+##Regular Spirits
 | Spirits                | Location         | Spirit Type | Season | Emote | Emote Type | Cosmetics | Regular Candles | Hearts | Ascended Candles | Seasonal Candles |
 |------------------------|------------------|-------------|--------|-------|------------|-----------|-----------------|--------|------------------|------------------|
 | Pointing Candlemaker   | Isle of Dawn     |             |        |       |            |           |                 |        |                  |                  |
