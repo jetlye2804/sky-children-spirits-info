@@ -3,11 +3,11 @@
 ## Regular Spirits
 
 ### Isle of Dawn
-| Spirits                | Spirit Type | Emote | Emote Type | Cosmetics | Regular Candles | Hearts | Ascended Candles |
-|------------------------|-------------|-------|------------|-----------|-----------------|--------|------------------|
-| Pointing Candlemaker   |             |       |            |           |                 |        |                  |
-| Rejecting Voyager      |             |       |            |           |                 |        |                  |
-| Ushering Stargazer     |             |       |            |           |                 |        |                  |
+| Spirits                | Emote | Emote Type             | Cosmetics | Regular Candles | Hearts | Ascended Candles |
+|------------------------|-------|------------------------|-----------|-----------------|--------|------------------|
+| Pointing Candlemaker   |       | 4-level regular emotes |           |                 |        |                  |
+| Rejecting Voyager      |       | 4-level regular emotes |           |                 |        |                  |
+| Ushering Stargazer     |       | 4-level regular emotes |           |                 |        |                  |
 
 Total of Cosmetics offered:
 * Outfits: 2
