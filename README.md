@@ -35,7 +35,7 @@ Total number of wing buffs offered from spirits: 3
 ### Daylight Prairie
 | Spirits                | Emote     | Emote Type            | Items                          | Regular Candles | Hearts | Ascended Candles |
 |------------------------|-----------|-----------------------|--------------------------------|-----------------|--------|------------------|
-| Butterfly Charmer      | Butterfly | 4-level regular emote | Pants, Capes                   | 14              | 7 (+9) | 1 (+3)           |
+| Butterfly Charmer      | Butterfly | 4-level regular emote | Outfits, Capes                 | 14              | 7 (+9) | 1 (+3)           |
 | Applauding Bellmaker   | Clap      | 4-level regular emote | Hair                           | 16              | 3      | 1                |
 | Waving Bellmaker       | Wave      | 6-level regular emote | Hair, Masks                    | 14 (+6)         | 7      | 2 (+6)           |
 | Slumbering Shipwright  | Yawn      | 4-level regular emote | Hair                           | 14              | 3      | 1                |
