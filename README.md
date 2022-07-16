@@ -2,10 +2,10 @@
 
 ## Regular Spirits
 **NOTE:**
-**1. "(+N)" represents including tier two unlocking**
-**2. Items sequence starts from Outfits, Masks, Necklaces, Hair, Head accessories, Capes, Held props, Placeable props, Music Sheets**
-**3. All tier two ascend lock and respective items will not count into Constellation completion**
-**4. Items with "^" represents tier two exclusive, whereas "⁼" represents available in both tier one and tier two**
+1. **"(+N)" represents including tier two unlocking**
+2. **Items sequence starts from Outfits, Masks, Necklaces, Hair, Head accessories, Capes, Held props, Placeable props, Music Sheets**
+3. **All tier two ascend lock and respective items will not count into Constellation completion**
+4. **Items with "^" represents tier two exclusive, whereas "⁼" represents available in both tier one and tier two**
 
 
 ### Isle of Dawn
