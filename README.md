@@ -148,9 +148,76 @@ Total number of wing buffs offered from spirits: 7 (+2)
 -------------
 
 ### Golden Wasteland
+| Spirits            | Emote             | Emote Type            | Items                           | Regular Candles | Hearts    | Ascended Candles |
+|--------------------|-------------------|-----------------------|---------------------------------|-----------------|-----------|------------------|
+| Frightened Refugee | Duck              | 4-level regular emote | Hair, Held Props (Instruments)  | 23              | 8         | 1                |
+| Fainting Warrior   | Faint             | 4-level regular emote | Masks, Hair                     | 23              | 20        | 2                |
+| Courageous Soldier | Courageous Stance | Stance regular emote  | Hair, Capes⁼                    | 9               | 19 (+45)  | 2 (+6)           |
+| Stealthy Survivor  | Sneaky Stance     | Stance regular emote  | Hair, Capes⁼                    | 9               | 55 (+150) | 4 (+12)          |
+| Saluting Captain   | Salute            | 4-level regular emote | Hair, Held Props (Decoration)   | 23              | 25        | 3                |
+| Lookout Scout      | Look Around       | 4-level regular emote | Masks, Held Props (Instruments) | 24              | 15        | 2                |
+
+Total of Items offered:
+* Outfits: 0
+* Masks: 2
+* Necklaces: 0
+* Hair: 5
+* Head accessories: 0
+* Capes: 2 (+2⁼)
+* Held props: 3
+* Placeable props: 0
+* Music Sheets: 0
+
+Total number of in-game currencies to complete this constellation:
+* Regular Candles: 111
+* Hearts: 142
+* Ascended Candles: 14
+
+Total number of in-game currencies required for tier two unlocking: 
+* Regular Candles: 0
+* Hearts: 195
+* Ascended Candles: 18
+
+Total number of wing buffs offered from spirits: 6 (+2)
 
 -------------
 
 ### Vault of Knowledge
+| Spirits             | Emote             | Emote Type            | Items                           | Regular Candles | Hearts    | Ascended Candles |
+|---------------------|-------------------|-----------------------|---------------------------------|-----------------|-----------|------------------|
+| Praying Acolyte     | Pray              | 4-level regular emote | Hair, Capes⁼                    | 24              | 30 (+75)  | 3 (+9)           |
+| Levitating Adept    | Telekinesis       | 4-level regular emote | Masks, Hair                     | 26              | 15        | 2                |
+| Polite Scholar      | Polite Stance     | Stance regular emote  | Outfits, Hair                   | 9               | 17        | 2                |
+| Memory Whisperer    | Cosmic Manta Call | Call regular emote    | Outfits, Capes⁼                 | 9               | 53 (+150) | 4 (+12)          |
+| Meditating Monastic | Float             | 4-level regular emote | Masks, Placeable Props (4-chat) | 36              | 40        | 3                |
+
+
+Total of Items offered:
+* Outfits: 2
+* Masks: 2
+* Necklaces: 0
+* Hair: 3
+* Head accessories: 0
+* Capes: 2 (+2⁼)
+* Held props: 0
+* Placeable props: 1
+* Music Sheets: 0
+
+Total number of in-game currencies to complete this constellation:
+* Regular Candles: 104
+* Hearts: 152
+* Ascended Candles: 14
+
+Total number of in-game currencies required for tier two unlocking: 
+* Regular Candles: 0
+* Hearts: 225
+* Ascended Candles: 21
+
+Total number of wing buffs offered from spirits: 5 (+2)
 
 -------------
+### Total Counting
+* Total number of wing buffs offered from ALL regular spirits: 37 (+12)
+* Total Regular Candles required: 615 (+16)
+* Total Hearts required: 578 (+744) - Equivalent to 1734 (+2232) candles
+* Total Ascended Candles required: 71 (+90)
