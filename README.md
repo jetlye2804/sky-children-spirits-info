@@ -3,7 +3,7 @@
 ## Regular Spirits
 
 ### Isle of Dawn
-| Spirits              | Emote     | Emote Type            | Cosmetics     | Regular Candles | Hearts | Ascended Candles |
+| Spirits              | Emote     | Emote Type            | Items         | Regular Candles | Hearts | Ascended Candles |
 |----------------------|-----------|-----------------------|---------------|-----------------|--------|------------------|
 | Pointing Candlemaker | Point     | 4-level regular emote | Hair, Outfits | 14              | 4      | 1                |
 | Ushering Stargazer   | Come      | 4-level regular emote | Hair, Outfits | 14              | 4      | 1                |
@@ -19,6 +19,8 @@ Total of Cosmetics offered:
 * Held props: 0
 * Placeable props: 0
 
+Total of Music Sheets offered: 0
+
 Total number of in-game currencies to complete this constellation:
 * Regular Candles: 42
 * Hearts: 12
@@ -31,7 +33,7 @@ Total number of wing buffs offered from spirits: 3
 -------------
 
 ### Daylight Prairie
-| Spirits                | Emote     | Emote Type            | Cosmetics                      | Regular Candles | Hearts | Ascended Candles |
+| Spirits                | Emote     | Emote Type            | Items                          | Regular Candles | Hearts | Ascended Candles |
 |------------------------|-----------|-----------------------|--------------------------------|-----------------|--------|------------------|
 | Butterfly Charmer      | Butterfly | 4-level regular emote | Pants, Capes                   | 14              | 7 (+9) | 1 (+3)           |
 | Applauding Bellmaker   | Clap      | 4-level regular emote | Hair                           | 16              | 3      | 1                |
@@ -43,14 +45,16 @@ Total number of wing buffs offered from spirits: 3
 | Ceremonial Worshiper   | Teamwork  | 1-level regular emote | N/A                            | 9               | 0      | 1                |
 
 Total of Cosmetics offered:
-* Outfits: 2
-* Masks: 1
+* Outfits: 1
+* Masks: 2
 * Necklaces: 0
-* Hair: 3
+* Hair: 5
 * Head accessories: 0
-* Capes: 0
-* Held props: 0
+* Capes: 1
+* Held props: 1
 * Placeable props: 0
+
+Total of Music Sheets offered: 1
 
 Total number of in-game currencies to complete this constellation:
 * Regular Candles: 116
