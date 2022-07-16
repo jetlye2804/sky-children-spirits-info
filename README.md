@@ -64,7 +64,7 @@ Total number of in-game currencies required for tier two unlocking:
 
 Total number of wing buffs offered from spirits: 8 (10*)
 
-'''NOTE: "(+N)" represents including tier two unlocking'''
+**NOTE: "(+N)" represents including tier two unlocking**
 
 -------------
 
